@@ -5,4 +5,4 @@ This project consists of a smart contract that automates the creation of joint s
 
 The Solidity smart contract accepts two user addresses that will be able to control the joint savings account, and uses ether management functions to implement a financial institution’s requirements for joint savings account features -- the ability to deposit and withdraw funds from the account.
 
-The contract was tested in the Remix JavaScript VM.
+The contract was tested in the Remix JavaScript VM. An "Execution Results" folder is included with the transaction tests performed. 
